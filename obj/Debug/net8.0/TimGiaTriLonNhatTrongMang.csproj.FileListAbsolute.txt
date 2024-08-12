@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Module1\ThucHanh\TimGiaTriLonNhatTrongMang\bin\Debug\net8.0\TimGiaTriLonNhatTrongMang.exe
+C:\Users\pc\Desktop\Module1\ThucHanh\TimGiaTriLonNhatTrongMang\bin\Debug\net8.0\TimGiaTriLonNhatTrongMang.deps.json
+C:\Users\pc\Desktop\Module1\ThucHanh\TimGiaTriLonNhatTrongMang\bin\Debug\net8.0\TimGiaTriLonNhatTrongMang.runtimeconfig.json
+C:\Users\pc\Desktop\Module1\ThucHanh\TimGiaTriLonNhatTrongMang\bin\Debug\net8.0\TimGiaTriLonNhatTrongMang.dll
+C:\Users\pc\Desktop\Module1\ThucHanh\TimGiaTriLonNhatTrongMang\bin\Debug\net8.0\TimGiaTriLonNhatTrongMang.pdb
+C:\Users\pc\Desktop\Module1\ThucHanh\TimGiaTriLonNhatTrongMang\obj\Debug\net8.0\TimGiaTriLonNhatTrongMang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Module1\ThucHanh\TimGiaTriLonNhatTrongMang\obj\Debug\net8.0\TimGiaTriLonNhatTrongMang.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Module1\ThucHanh\TimGiaTriLonNhatTrongMang\obj\Debug\net8.0\TimGiaTriLonNhatTrongMang.AssemblyInfo.cs
+C:\Users\pc\Desktop\Module1\ThucHanh\TimGiaTriLonNhatTrongMang\obj\Debug\net8.0\TimGiaTriLonNhatTrongMang.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Module1\ThucHanh\TimGiaTriLonNhatTrongMang\obj\Debug\net8.0\TimGiaTriLonNhatTrongMang.sourcelink.json
+C:\Users\pc\Desktop\Module1\ThucHanh\TimGiaTriLonNhatTrongMang\obj\Debug\net8.0\TimGiaTriLonNhatTrongMang.dll
+C:\Users\pc\Desktop\Module1\ThucHanh\TimGiaTriLonNhatTrongMang\obj\Debug\net8.0\refint\TimGiaTriLonNhatTrongMang.dll
+C:\Users\pc\Desktop\Module1\ThucHanh\TimGiaTriLonNhatTrongMang\obj\Debug\net8.0\TimGiaTriLonNhatTrongMang.pdb
+C:\Users\pc\Desktop\Module1\ThucHanh\TimGiaTriLonNhatTrongMang\obj\Debug\net8.0\TimGiaTriLonNhatTrongMang.genruntimeconfig.cache
+C:\Users\pc\Desktop\Module1\ThucHanh\TimGiaTriLonNhatTrongMang\obj\Debug\net8.0\ref\TimGiaTriLonNhatTrongMang.dll

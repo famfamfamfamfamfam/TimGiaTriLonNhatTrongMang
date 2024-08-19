@@ -6,12 +6,12 @@ namespace MANGMOTCHIEU
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Nhap so ty phu co khoi tai san can so sanh:");
+            RE: Console.WriteLine("Nhap so ty phu co khoi tai san can so sanh:");
             byte n = byte.Parse(Console.ReadLine());
             if (n>20)
             {
                 Console.WriteLine("Vuot qua so luong co the xet");
-                return;
+                goto RE;
             }
             long[] danhsachtaisan = new long[n];
             long max = danhsachtaisan[0];
